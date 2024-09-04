@@ -2,6 +2,10 @@
 
 This project uses the FastAPI library to create a simple and straightforward API system.
 
+The use case for this project is a tasks management system where admin would like to logs all the tasks related to employee including which employee it belong to along with their company and the task details.
+
+In addition, employee data will be stored as user.
+
 # Requirements:
 
 > ### Development Guidelines
