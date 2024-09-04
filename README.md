@@ -93,7 +93,7 @@ fastapi_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/huynhhoachung/FastAPI_Implementation.git
 cd fastapi_assignment
 ```
 
